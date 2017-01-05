@@ -1,3 +1,4 @@
+#!/bin/python3
 import random
 
 CELLS = [(0,0),(0,1),(0,2),
